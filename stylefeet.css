@@ -1,0 +1,25 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	
+}
+body {
+	background-image: url('https://stryvemarketing.com/wp-content/uploads/2016/04/flamingline.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.trashTalk {
+	color: #3B0000;
+	text-align: center;
+}
+img {
+	position: absolute;
+	bottom: 0px;
+	
+}
+.otherGuy {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
